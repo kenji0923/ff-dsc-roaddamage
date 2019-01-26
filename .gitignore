@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+
+input/*
+training/model_dir/*
+training/model_dir_2/*
